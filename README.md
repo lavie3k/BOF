@@ -7,7 +7,7 @@
 - https://esseum.com/win-32-buffer-overflow-walkthrough-exploiting-slmail-5-5/
 - It's easy 25 points !!! :D
 
-*  Reference * https://www.vortex.id.au/2017/05/pwkoscp-stack-buffer-overflow-practice/
+**  Reference **https://www.vortex.id.au/2017/05/pwkoscp-stack-buffer-overflow-practice/
 
 - dostackbufferoverflowgood : This is good for understanding how BoF works. https://github.com/justinsteven/dostackbufferoverflowgood
 - SLmail v5.5 : Covered in OSCP guide(exercise) , try build your own exploit-code for BoF on different environments like Windows XP or Windows7 SP3, etc. https://www.exploit-db.com/exploits/638
